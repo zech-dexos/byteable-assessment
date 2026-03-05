@@ -13,11 +13,11 @@
 This project is a Base CRM for a **[Car Dealership]** built using the Byteable AI workflow.
 
 ### Core Features Implemented
-- [ ] **CRM Core:** Contacts, Deals/Pipeline, Notes/Tasks
-- [ ] **Dashboard:** High-level analytics widgets
-- [ ] **Behavior Tracking:** Event logging (e.g., login, deal update)
-- [ ] **Agentic Workflow:** [Name of your agent, e.g., "Lead Follow-up Bot"]
-- [ ] **Public API:** [Name of API, e.g., Google OAuth]
+- [X] **CRM Core:** Contacts, Deals/Pipeline, Notes/Tasks
+- [X] **Dashboard:** High-level analytics widgets
+- [X] **Behavior Tracking:** Event logging (e.g., login, deal update)
+- [X] **Agentic Workflow:** [Name of your agent, e.g., "Lead Follow-up Bot"]
+- [X] **Public API:** [Name of API, e.g., Google OAuth]
 
 ---
 
